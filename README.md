@@ -41,13 +41,13 @@
 
 1. **Клонируйте репозиторий:**
 
-`git clone https://github.com/slavaroskoshnyy/JenkinsQA_JS_2025_fall.git
-cd JenkinsQA_JS_2025_fall`
+`git clone https://github.com/slavaroskoshnyy/JenkinsQA_JS_2025_fall.git` </br>
+`cd JenkinsQA_JS_2025_fall`
 
 2. **Установите зависимости:**
 
-`npm install
-npx playwright install`
+`npm install` </br>
+`npx playwright install`
 
 3. **Настройте окружение:**
 
@@ -55,4 +55,4 @@ npx playwright install`
 
 4. **Запустите тесты:**
 
-npx playwright test
+`npx playwright test`
