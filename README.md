@@ -1,4 +1,4 @@
-# JenkinsQA Automation Framework (Playwright + JS)
+# [JenkinsQA Automation Framework (Playwright + JS)](https://github.com/slavaroskoshnyy/JenkinsQA_JS_2025_fall.git)
 
 **Учебный командный проект [RedRover.school](https://redrover.school)**.
 
